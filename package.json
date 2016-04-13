@@ -1,0 +1,15 @@
+{
+  "name": "TimeSuck",
+  "version": "0.0.1",
+  "dependencies": {
+    "bcrypt": "^0.8.5",
+    "body-parser": "^1.15.0",
+    "bootstrap": "^3.3.6",
+    "connect-multiparty": "^2.0.0",
+    "express": "^4.13.4",
+    "fs-extra": "^0.26.7",
+    "mongoose": "^4.4.11",
+    "ng-file-upload": "^12.0.4",
+    "path": "^0.12.7"
+  }
+}

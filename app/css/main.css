@@ -1,0 +1,13 @@
+/* Base Elements */
+
+body{
+	margin-top: 70px;
+}
+
+nav{
+	padding-top: 10px;
+}
+.waste-section img {
+	width: 100px;
+	height: 100px;
+}
